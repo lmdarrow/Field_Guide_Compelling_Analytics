@@ -6,8 +6,7 @@ Through case studies and interviews of analytics professionals, this text provid
 
 ### About the Authors
 
-**Walt DeGrange**
-Walt is an MBA Executive Advisor at the NC State University Poole School of Management. In this role, he mentors, coaches, and advises graduate student practicum teams taking the MBA Capstone Practicum Course required for a supply chain concentration. Assists students in developing analytical business acumen, leadership, communication, presentation, interpersonal and critical thinking skills. Develops and maintains productive collaborative working relationships between students, faculty, and industry partners.
+**Walt DeGrange** is an MBA Executive Advisor at the NC State University Poole School of Management. In this role, he mentors, coaches, and advises graduate student practicum teams taking the MBA Capstone Practicum Course required for a supply chain concentration. Assists students in developing analytical business acumen, leadership, communication, presentation, interpersonal and critical thinking skills. Develops and maintains productive collaborative working relationships between students, faculty, and industry partners.
 
 Walt has 27 years of logistics and analytics. His prior positions during his 21 years of service in the US Navy include Director of Operations Research at several commands including Naval Supply Systems Command Logistics Operations Center, Naval Supply Systems Command Weapon Systems Support and US Central Command Deployment and Distribution Operations Center. Post Navy, Walt is the Director of Analytics Capabilities for CANA Advisors. He has extensive experience implementing models in both the Department of Defense and commercial worlds.
 
@@ -17,9 +16,7 @@ serves on multiple committees.
 He is also an adjunct faculty member at the University of Arkansas and teaches the Organizing for Change online course in the Master of Science Operations Management program. Previously, he was a Military Assistant Professor and the Joint Operational Logistics Program Officer at the Naval Postgraduate School in the Operations Research Department.
 
 
-**Lucia Darrow**
-
-Lucia is an Operations Research Analyst with over four years of experience employing predictive and prescriptive analytics techniques. She holds a Master of Science in Industrial Engineering from Oregon State University and a Bachelor of Science in Mathematics from Dickinson College. Lucia has experience implementing analytical models in a variety of different environments, from healthcare to manufacturing and defense. 
+**Lucia Darrow** is an Operations Research Analyst with over four years of experience employing predictive and prescriptive analytics techniques. She holds a Master of Science in Industrial Engineering from Oregon State University and a Bachelor of Science in Mathematics from Dickinson College. Lucia has experience implementing analytical models in a variety of different environments, from healthcare to manufacturing and defense. 
 
 Lucia has developed several high impact decision support tools and dashboards that allow end users to model real world scenarios through simulation, optimization, and advanced data analysis. She has experience implementing machine learning and statistical techniques, such as k-means and k-modes classification, text mining, and regression analysis. An Industrial Engineer by training, Lucia also has extensive experience with Lean manufacturing and understanding and mapping complex systems. She has led Kaizen improvement events. Through her graduate research at Oregon State University, she applied Lean methodology to a healthcare system to reduce employee burnout and improve organizational resilience.
 
