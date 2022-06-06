@@ -4,6 +4,10 @@ Organizations don’t implement analytics, people do. In this book, we uncover h
 
 Through case studies and interviews of analytics professionals, this text provides readers with an understanding of key elements that can increase the probability of implementation of their analytic solutions. We introduce the formula "Trust + Experience + Effective Communications + Analytics > Convince Me." The Convince Me stakeholder represents the person that must be convinced. This might be an analytics team member, team lead, decision-maker, or senior leader. The contributing factors do not exist in a vacuum and their interactions and relationship with time is discussed. Each section of the text includes a real-world analytics example and questions for discussion. 
 
+### Where to Find the Book 
+
+The Field Guide to Compelling Analytics is now available for pre-order at [Amazon](https://www.amazon.com/Field-Compelling-Analytics-Chapman-Studies/dp/1032065257/ref=sr_1_1?crid=1VXQQUIGCVD3Y&keywords=walter+degrange&qid=1654288663&sprefix=walter+degrange%2Caps%2C85&sr=8-1) and [Barnes and Noble](https://www.barnesandnoble.com/w/field-guide-to-compelling-analytics-walter-degrange/1141466040?ean=9781032065250).
+
 ### About the Authors
 
 **Walt DeGrange** is the Director of Analytics Capabilities for CANA. He has extensive experience implementing analytical models in both the Department of Defense and commercial areas. Prior to CANA, Walt served 21 years in the US Navy as a Supply Corps Officer. He was the Director of Operations Research at several military commands as well as a Military Assistant Professor on faculty at the Naval Postgraduate School in the Operations Research Department.
